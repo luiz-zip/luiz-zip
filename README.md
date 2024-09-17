@@ -40,5 +40,5 @@ Aqui estão alguns dos meus projetos mais relevantes:
 ## 💬 Vamos conversar?
 Estou sempre aberto a trocar ideias e colaborar em novos projetos. Entre em contato comigo pelos canais abaixo:
 
-- **LinkedIn:** [Luiz Ferreira](https://www.linkedin.com/in/luiz-ferreira/)
+- **LinkedIn:** [Luiz Ferreira](https://www.linkedin.com/in/luiz-ferreira-5a9b61272/)
 - **Email:** oliveiraferreiraluizhenrick@gmail.com
