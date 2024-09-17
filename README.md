@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Desenvolvedor+de+Sistemas+de+Informação;Especialista+em+ERP+e+Web+Development;Sempre+aprendendo+novas+tecnologias!)
 
 [![GitHub](https://img.shields.io/github/followers/luiz-zip?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/luiz-zip)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/luiz-ferreira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/luiz-ferreira-5a9b61272/)
 
 ---
 
