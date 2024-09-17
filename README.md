@@ -8,7 +8,7 @@
 ---
 
 ## 💼 Sobre mim
-Sou um **Desenvolvedor de Sistemas de Informação** com experiência em criar soluções web utilizando **GeneXus**, **PHP**, **JavaScript**, e **MySQL**. Trabalho atualmente na **JASPI Sistemas**, onde desenvolvo e lidero projetos focados em automação e integração de sistemas, especialmente em **ERP**.
+Sou um **Desenvolvedor de Sistemas de Informação** com experiência em criar soluções web utilizando **GeneXus**, **PHP**, **JavaScript**, e **MySQL**. Trabalho atualmente na **JASPI Sistemas**, onde desenvolvo e lidero projetos focados em automação e integração de sistemas.
 
 ---
 
@@ -28,8 +28,7 @@ Aqui estão algumas das tecnologias com as quais trabalho regularmente:
 ## 🌱 O que estou aprendendo atualmente?
 Atualmente, estou expandindo meus conhecimentos em:
 
-- **Inteligência Artificial com GeneXus**
-- **Desenvolvimento de módulos especializados** para lavanderias e centros cirúrgicos.
+- **Desenvolvimento de módulos especializados** para hospitais.
 - **Controle de versão com GitHub**.
 
 ---
