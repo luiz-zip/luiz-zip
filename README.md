@@ -25,14 +25,6 @@ Aqui estão algumas das tecnologias com as quais trabalho regularmente:
 
 ---
 
-## 🌱 O que estou aprendendo atualmente?
-Atualmente, estou expandindo meus conhecimentos em:
-
-- **Desenvolvimento de módulos especializados** para hospitais.
-- **Controle de versão com GitHub**.
-
----
-
 ## 📈 Estatísticas do GitHub
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-zip&show_icons=true&theme=radical)
