@@ -23,13 +23,6 @@ Sou um **Desenvolvedor de Sistemas de Informação** com experiência em criar s
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-zip&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-zip&layout=compact&theme=radical)
 
----
-
-## 🚀 Projetos em Destaque
-Aqui estão alguns dos meus projetos mais relevantes:
-
-- **[GeradorCurriculo](https://github.com/luiz-zip/GeradorCurriculo)**: Uma aplicação que gera currículos de forma automática com base em dados fornecidos.
-- **Sistema de Pronto Atendimento UNIMED**: Desenvolvimento de um sistema de gestão de atendimento médico de urgência para a UNIMED.
 
 ---
 
